@@ -1,0 +1,211 @@
+.bgleadstyle {
+    position: absolute;
+    width: 80%;
+    top: 0;
+    right: 0;
+    z-index: -2;
+}
+
+@media screen and (max-width: 768px) {
+    .leadGraphicleadstyle {
+        display:none;
+    }
+}
+
+.leadGraphicleadstyle {
+    position: absolute;
+    width: 40%;
+    right: 10%;
+    top: 12%;
+    z-index: -1;
+}
+
+/*  */
+
+.index_BG_setup {
+    background-image: url("../img/index_BG_setup.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 642px, cover;
+}
+
+.index_coop {
+    width: 100%;
+    z-index: -1;
+}
+
+.spaceTitle {
+    margin-top: 214px;
+}
+
+.text1 {
+    font-family: "Kanit";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 20px;
+    color: #F16A54;
+}
+.text2 {
+    font-family: "Kanit";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #F16A54;
+}
+
+.text3 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #000000;
+}
+
+.text4 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #000000;
+}
+
+.textsecond1 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #000000;
+}
+
+.textsecond2 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #000000;
+}
+
+.texttitle {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #F16A54;
+}
+
+.textthird1 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    color: #000000;
+}
+
+.textthird2 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 29px;
+    color: #F16A54;
+}
+
+.textthird3 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #F16A54;
+}
+
+.textthird4 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    color: #000000;
+}
+
+.textthird5 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.textthird6 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.textfourth1 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.textfourth2 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.textfourth3 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.textfourth4 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.textFifth1 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    color: #F16A54;
+}
+
+.textFifth2 {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    color: #F16A54;
+}
+
+.card {
+    border: 0px !important;
+    border-radius: 0 !important;
+    margin: 16px;
+    width: 306px;
+    height: 357px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 20px rgba(69, 158, 255, 0.2);
+}
+
+.tab {
+    background: #F16A54;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}

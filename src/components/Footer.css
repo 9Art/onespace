@@ -1,0 +1,15 @@
+.textfooterbold {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.textfooternomal {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: thin;
+    font-size: 12px;
+    color: #FFFFFF;
+}

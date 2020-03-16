@@ -1,0 +1,21 @@
+.textstyle{
+    display: flex;
+    font-family:"Kanit" ;
+    font-style:normal ;
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+#text1{
+    font-size: 14px;
+
+}
+.text{
+    text-transform: uppercase;
+}
+
+
+
+/* .textstyle >div{
+    color: red;
+} */

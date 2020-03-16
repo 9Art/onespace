@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit:300,400,500,700&display=swap');
+
+body{
+    font-family: 'Kanit', sans-serif !important;
+}
+
+label{
+    font-family: 'Kanit', sans-serif !important;
+}
+
+a {
+    color: black !important;
+    text-decoration: none;
+}
+
+a:hover {
+    /* color: red !important; */
+    text-decoration: none;
+}
+
+a.active {
+    background-color: red;
+    color: white;
+}
+
+button{
+    color: white;
+    background: #F16A54;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: 0px !important;
+    border-radius: 25px !important;
+}
+
+.title {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400;
+}
+
+.title-md {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+}
+
+.title-bold {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+}
